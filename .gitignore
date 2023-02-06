@@ -1,12 +1,13 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 /VirtualEnv
 /project
 =======
 # Byte-compiled / optimized / DLL files
 
+=======
+>>>>>>> Stashed changes
 /VirtualEnv
-
->>>>>>> 750cec6a9a8213d9bb3592c02523e3dd1cfcecd1
 __pycache__/
 *.py[cod]
 *$py.class
